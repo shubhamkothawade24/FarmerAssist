@@ -41,6 +41,6 @@ FarmAssist is released under the [MIT License](https://opensource.org/licenses/M
 We would like to thank the open-source community for their valuable contributions and support in making FarmAssist better.
 
 ## Contact
-If you have any questions, feedback, or suggestions, please feel free to reach out to us at farmassist@example.com.
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at kothawadeshubham@kavruktechnologies.com
 
 Happy farming with FarmAssist! 🚜🌱
